@@ -75,7 +75,7 @@ EVAL_DATASET = [
         "query": "Who is the CEO of ComplyEncrypt and what is their role in the platform?",
         "category": "rag",
         "reference_facts": [
-            "Faizan Ahmed",
+            "Angelina Martin",
             "CEO",
             "leadership",
         ],
